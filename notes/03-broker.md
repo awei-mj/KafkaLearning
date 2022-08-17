@@ -25,7 +25,7 @@ GUI工具：prettyZoo
   - /controller 辅助选举leader
   - /config
   - /Controller_epoch
-  - /lsr_change_notification
+  - /isr_change_notification
   - /latest_producer_id_block
   - /log_dir_event_notification
 
