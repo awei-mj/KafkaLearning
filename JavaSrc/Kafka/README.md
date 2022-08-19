@@ -2,6 +2,6 @@
 
 学习Kafka的JavaAPI的代码
 
-main里是Kafka简单整合SpringBoot，test里是纯kafka-client
+main里是SpringBoot简单整合Kafka，test里是纯kafka-client
 
 仅供参考
